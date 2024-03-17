@@ -24,10 +24,8 @@ The Histogram of gray scale image and color image is shown.
 
 ## Program:
 ```py
-'''
 # Developed By: K KESAVA SAI
 # Register Number: 212223230105
-'''
 ```
 ## Gray Image and Color Image
 ```py
